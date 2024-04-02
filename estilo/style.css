@@ -39,8 +39,8 @@ section.normal{
     color: black;
 }
 
-section.imagem{
-    background-color: #4d4c4c;
+section.imagem {
+    background-color: rgb(77, 76, 76);
     color: white;
 }
 
